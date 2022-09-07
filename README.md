@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @auriaahmad
-- 👀 I’m interested in blending different technologies togather
+- 👀 I’m interested in blending different technologies
 - 🌱 I’m currently learning blockchain and metaverse  
 - 💞️ I’m looking to collaborate on AI, IOT, Cloud Native Computing and Web Application, Metaverse, BlockChain, Quantum Computing, 5G based projects
 - 📫 How to reach me @IG auriaahmad
