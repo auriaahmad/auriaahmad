@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Auria Ahmad! An electrical engineer, having a passion to develop web-based software and integrate them with hardware.  
-- 👀 I’m interested in blending different technologies
-- 🌱 I’m currently learning blockchain and metaverse  
-- 👉 3+ years of experience building applications with MERN stack
-- 💞️ I’m looking to collaborate and learn on AI, IOT, Cloud Native Computing and Web Application, Metaverse, BlockChain, Quantum Computing, 5G based projects
+- 👋 Hi, I’m Auria Ahmad! An electrical Engineer IoT Application Developer and Project Manager, having a passion to develop and manage IoT projects.  
+- 👀 I’m interested in blending different technologies 
+- 👉 5+ years of experience building IoT application with MERN stack
+- 💞️ I’m looking forward to collaborate with Software developers and Hardware engineers to work together on 
 - 📫 How to reach me @IG auriaahmad 📧 Email: oryaofficial@gmail.com
 
 <!---
