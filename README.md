@@ -4,7 +4,7 @@
 - 💻 5+ years of experince, writing Pyton and C++ scripts for Microcontrollers like RuspberryPI, Arduino
 - 💞️ I’m looking forward to collaborate with Stakeholders from various fields of life, Software developers and Hardware engineers to work together to provide better solutions. 
 - 📫 How to reach me 📧 Email: oryaofficial@gmail.com 
-- 🔗 Lets Connect on (LinkedIn)[https://www.linkedin.com/in/muhammad-auria-ahmad]
+- 🔗 Lets Connect on [LinkedIn](https://www.linkedin.com/in/muhammad-auria-ahmad)
 
 <!---
 auriaahmad/auriaahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
