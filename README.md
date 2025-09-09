@@ -1,20 +1,19 @@
-# Hi there! 👋 I'm M. Auria Ahmad
+# Hi there! 👋 I'm Auria Ahmad
 
-## Senior Full Stack Engineer | E-commerce & AI Integration Specialist
+## Full Stack Engineer | IoT & AI Solutions Developer
 
-🌍 **Seeking to Relocate to Berlin, Germany**
-
-Results-driven **Senior Full Stack Engineer** with **5+ years** of expertise building scalable e-commerce platforms and AI-powered customer experience solutions. Proven track record in **React, Node.js, and Express** with deep experience in **chatbot development, virtual assistants, and AI messaging integration**. Successfully delivered production systems serving **500+ active users** across **15+ countries**.
+Passionate **Full Stack Engineer** with expertise in building **cloud-native web applications** and **IoT solutions**. I love blending **hardware and software** to create innovative solutions that bridge the physical and digital worlds. With a background in **Electrical Engineering** and **self-learned web development**, I specialize in creating scalable applications that solve real-world problems.
 
 ---
 
 ## 🚀 What I Do
 
-- 💻 **Full Stack Development**: Building scalable e-commerce platforms and SaaS applications
-- 🤖 **AI Integration**: Developing chatbots, virtual assistants, and conversational AI solutions
-- 🏭 **IoT Solutions**: Creating industrial automation systems with real-time data processing
-- 🌐 **International Projects**: Serving clients across Europe, North America, and Asia
-- 🔧 **Cloud Architecture**: Designing systems that handle millions of data points with 99.9% uptime
+- 💻 **Full Stack Development**: MERN Stack applications with modern React patterns and Node.js backends
+- 🤖 **AI Integration**: Building chatbots, virtual assistants, and AI-powered applications using modern LLMs
+- 🏭 **IoT Solutions**: Connecting hardware with cloud services for real-time data processing and automation
+- ⚡ **Microcontroller Programming**: Arduino, ESP32, Raspberry Pi with Python, C++, and Embedded Rust
+- 🌐 **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD pipelines for scalable deployments
+- 🔧 **System Architecture**: Designing microservices, event-driven systems, and RESTful APIs
 
 ---
 
@@ -52,120 +51,81 @@ Results-driven **Senior Full Stack Engineer** with **5+ years** of expertise bui
 
 ## 🏆 Featured Projects
 
-### 🛒 [SelgoDev E-commerce Platform](https://selgodev.vercel.app/) *(Live Production)*
-**Norwegian Client | React.js, Responsive Design**
-- Pixel-perfect e-commerce frontend from Figma designs
-- **<2s page load times** with **95%+ mobile compatibility**
-- European e-commerce compliance standards
+### 🤖 [Medical AI Chatbot with RAG](https://github.com/auriaahmad/medical-chatbot)
+**AI/ML | LLAMA-3, LangChain, Vector Databases**
+- Intelligent chatbot using Retrieval Augmented Generation
+- Custom fine-tuned models with medical datasets
+- PineCone vector database for enhanced context understanding
 
-### 🦷 [PlaniLink Dental Management SaaS](https://planilink.com/) *(Live Production)*
-**Healthcare SaaS | MERN Stack, Zustand Store**
-- **500+ active patients across 15+ countries**
-- Processing **€50,000+ monthly dental treatment bookings**
-- **99.8% uptime** with GDPR compliance
+### ⚡ [IoT E-commerce Data Analytics](https://github.com/auriaahmad/ESP32s-MERN)
+**IoT | MERN Stack, MQTT, ESP32**
+- Real-time sensor data processing with ESP32 microcontrollers
+- MQTT pub/sub messaging for scalable IoT communication
+- Live analytics dashboard for e-commerce insights
 
-### 🏷️ [BrandValidity QR Management System](https://www.schoolsupportservice.com/) *(Live Production)*
-**QR Authentication | Next.js, FastAPI**
-- Comprehensive product authentication system
-- **10,000+ product validations monthly**
-- Secure QR authentication preventing counterfeiting
+### 🔗 [Third-party API Integration](https://github.com/auriaahmad/HarvestApi)
+**Full Stack | React.js, Express.js, RESTful APIs**
+- Seamless platform integrations and data synchronization
+- Automated workflows and efficient API management
+- Clean architecture for maintainable integrations
 
-### 🏆 [AI Timetable Generator - GIKI University](https://time-table-generation-web-app.vercel.app/) *(Competition Winner)*
-**🥇 Won competition** at prestigious GIKI University against 100+ participants
-- Advanced AI algorithms for **3,000+ students and 200+ faculty**
-- **99%+ conflict resolution** with conversational optimization
-- Handles **500+ subjects, 100+ rooms, 40+ time slots** simultaneously
-
-### 🇩🇪 [Inevis Telecom Solutions](http://inevis.de/) *(German Client - Live Production)*
-**Telecommunications | German Market Standards**
-- Professional website for German telecommunications vendor
-- Built following **German web standards** and business requirements
-
-### 🏭 **PuroGen IoT Industrial Platform** *(Grace Automation & Engineering Services)*
-**Global IoT | SERN Stack, AWS, Docker**
-- Processing **millions of sensor data points** from industrial facilities worldwide
-- **Real-time IoT data pipeline**: Sensors → PLC → Edge → Cloud → Dashboards
-- **99.9% uptime** with **<1s latency**
+### 🏆 [AI Timetable Generator](https://time-table-generation-web-app.vercel.app/)
+**AI/Optimization | React, Advanced Algorithms**
+- University timetable optimization using AI algorithms
+- Complex constraint solving for academic scheduling
+- Conversational interface for easy interaction
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Background
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auriaahmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auriaahmad&layout=compact&langs_count=8&theme=radical"/>
-</div>
+**🎓 Electrical Electronics Engineering**  
+*Lancaster University, United Kingdom*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auriaahmad&theme=radical" alt="GitHub Streak" />
-</div>
+**🛠️ Journey:** Started with hardware engineering, evolved into full-stack development by combining electrical engineering knowledge with self-learned web technologies. This unique background allows me to create solutions that seamlessly integrate hardware and software.
 
 ---
 
-## 🎓 Education & Certifications
+## 💡 What I Bring
 
-**🎓 Bachelor of Science in Electrical Electronics Engineering**  
-*Lancaster University, United Kingdom* | Graduated: Aug 2018
-
-**📜 Recent Certifications:**
-- 🤖 **LLM and AI Agents Certification** (2025)
-- ☁️ **Cloud Native Computing and Web Applications - PIAIC** (2023)
-- ⚛️ **React Development - Meta** (2023)
-- 🏗️ **Microservices with Node.js and React** (2022)
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Senior Full Stack Developer** | *Grace Automation & Engineering Services*
-**Apr 2021 - Present** | Leading IoT and cloud-native solutions
-
-### 🌍 **International Freelancer** | *AI-Powered E-commerce Solutions*
-**Apr 2019 - Present** | Serving clients across **15+ countries**
-
----
-
-## 🌟 Why I Stand Out
-
-✅ **5+ years** production experience with modern React patterns  
-✅ **International experience** - users across 15+ countries  
-✅ **Scalable systems** - proven 99.9% uptime in production  
-✅ **AI integration** - production chatbots and virtual assistants  
-✅ **Leadership** - led cross-functional teams in fast-paced environments  
-✅ **Adaptable** - successfully managed rapid requirement changes  
+🔧 **Hardware + Software Integration** - Unique ability to bridge physical devices with cloud applications  
+⚡ **End-to-End Solutions** - From microcontroller programming to scalable web applications  
+🤖 **AI-Powered Applications** - Experience with modern LLMs, chatbots, and intelligent systems  
+🌐 **Cloud-Native Thinking** - Building applications designed for scale and reliability  
+🔄 **DevOps Mindset** - Automated deployments, CI/CD, and infrastructure as code  
+📡 **IoT Expertise** - Real-time data processing, MQTT, sensor networks, and edge computing  
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm passionate about **revolutionizing e-commerce through AI-powered customer experiences** and ready to contribute to **Berlin's thriving tech ecosystem**.
+I'm always excited to collaborate on **innovative projects** that blend **hardware and software** or involve **AI integration**. Whether it's building IoT solutions, creating intelligent applications, or solving complex technical challenges - I'm up for it!
 
-📧 **Email**: auriaahmed786@gmail.com  
+📧 **Email**: oryaofficial@gmail.com  
 💼 **LinkedIn**: [muhammad-auria-ahmad](https://www.linkedin.com/in/muhammad-auria-ahmad)  
-🌐 **Portfolio**: [auctosai.com](https://www.auctosai.com/)  
-📱 **Phone**: +92-306-980-8681
+🌐 **Portfolio**: [auctosai.com](https://www.auctosai.com/)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
-🔍 **Actively seeking** full-stack engineering opportunities in **Berlin, Germany**  
-🚀 **Building** AI-powered e-commerce solutions and conversational interfaces  
-📚 **Learning** latest AI/ML technologies and European market standards  
-🌱 **Growing** expertise in scalable system architecture and performance optimization
+🤖 **AI Integration Projects** - Building smarter applications with modern LLMs  
+🏭 **IoT Solutions** - Connecting physical devices to cloud services  
+⚡ **Performance Optimization** - Making applications faster and more efficient  
+🌱 **Learning** - Exploring new technologies in AI, cloud computing, and edge devices
 
 ---
 
 <div align="center">
 
-### 💡 "Passionate about revolutionizing e-commerce through AI-powered customer experiences"
+### 💡 "Bridging the gap between hardware and software, one project at a time"
 
 **⭐ Star my repositories if you find them useful!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=auriaahmad&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=auriaahmad&color=blue&style=flat-square)
 
 </div>
 
 ---
 
-*Ready to make direct impact on platform evolution and contribute to the future of AI in e-commerce.*
+*Let's build something amazing together! 🚀*
