@@ -51,29 +51,65 @@ Passionate **Full Stack Engineer** with expertise in building **cloud-native web
 
 ## 🏆 Featured Projects
 
-### 🤖 [Medical AI Chatbot with RAG](https://github.com/auriaahmad/medical-chatbot)
+### 🛒 [SelgoDev E-commerce Platform](https://selgodev.vercel.app/) *(Live Production)*
+**Frontend | React.js, Responsive Design, Norwegian Client**
+- Pixel-perfect e-commerce frontend from Figma designs
+- <2s page load times with 95%+ mobile compatibility
+- European e-commerce compliance standards
+
+### 🦷 [PlaniLink Dental Management SaaS](https://planilink.com/) *(Live Production)*
+**Healthcare SaaS | MERN Stack, Zustand Store, i18n**
+- 500+ active patients across 15+ countries
+- €50,000+ monthly dental treatment bookings
+- 99.8% uptime with GDPR compliance
+
+### 🏷️ [BrandValidity QR Management System](https://www.schoolsupportservice.com/) *(Live Production)*
+**QR Authentication | Next.js, FastAPI, Analytics Dashboard**
+- Comprehensive product authentication system
+- 10,000+ product validations monthly
+- Secure QR authentication preventing counterfeiting
+
+### 🏆 [AI Timetable Generator - GIKI University](https://time-table-generation-web-app.vercel.app/) *(Competition Winner)*
+**AI/Optimization | React, Advanced Algorithms**
+- 🥇 Won competition at GIKI University against 100+ participants
+- University timetable optimization for 3,000+ students
+- 99%+ conflict resolution with conversational optimization
+
+### 🇩🇪 [Inevis Telecom Solutions](http://inevis.de/) *(German Client - Live)*
+**Corporate Website | German Market Standards**
+- Professional telecommunications company website
+- Built following German web standards and business requirements
+- German market localization and compliance
+
+### 💼 [AuctosAI Portfolio](https://www.auctosai.com/) *(Live Portfolio)*
+**Portfolio | React, Modern Animations, SEO Optimization**
+- Professional portfolio showcasing AI and development expertise
+- Modern animations and responsive design patterns
+- 90+ Lighthouse scores across all metrics
+
+### 🤖 [Medical AI Chatbot with RAG](https://github.com/auriaahmad/medical-chatbot) *(GitHub)*
 **AI/ML | LLAMA-3, LangChain, Vector Databases**
 - Intelligent chatbot using Retrieval Augmented Generation
 - Custom fine-tuned models with medical datasets
 - PineCone vector database for enhanced context understanding
 
-### ⚡ [IoT E-commerce Data Analytics](https://github.com/auriaahmad/ESP32s-MERN)
+### ⚡ [IoT E-commerce Data Analytics](https://github.com/auriaahmad/ESP32s-MERN) *(GitHub)*
 **IoT | MERN Stack, MQTT, ESP32**
 - Real-time sensor data processing with ESP32 microcontrollers
 - MQTT pub/sub messaging for scalable IoT communication
-- Live analytics dashboard for e-commerce insights
+- Processing 10,000+ data points daily with <1s latency
 
-### 🔗 [Third-party API Integration](https://github.com/auriaahmad/HarvestApi)
+### 🔗 [Third-party API Integration](https://github.com/auriaahmad/HarvestApi) *(GitHub)*
 **Full Stack | React.js, Express.js, RESTful APIs**
 - Seamless platform integrations and data synchronization
 - Automated workflows and efficient API management
 - Clean architecture for maintainable integrations
 
-### 🏆 [AI Timetable Generator](https://time-table-generation-web-app.vercel.app/)
-**AI/Optimization | React, Advanced Algorithms**
-- University timetable optimization using AI algorithms
-- Complex constraint solving for academic scheduling
-- Conversational interface for easy interaction
+### 🏭 **PuroGen IoT Industrial Platform** *(Enterprise Production)*
+**Global IoT | SERN Stack, AWS, Docker, Real-time Processing**
+- Processing millions of sensor data points from industrial facilities worldwide
+- Real-time IoT pipeline: Sensors → PLC → Edge → Cloud → Dashboards
+- 99.9% uptime with <1s latency for global operations
 
 ---
 
