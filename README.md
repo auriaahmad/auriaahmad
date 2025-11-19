@@ -93,7 +93,7 @@ Passionate **Full Stack Engineer** with expertise in building **cloud-native web
 - Custom fine-tuned models with medical datasets
 - PineCone vector database for enhanced context understanding
 
-### ⚡ [IoT E-commerce Data Analytics](https://github.com/auriaahmad/ESP32s-MERN) *(GitHub)*
+### ⚡ [IoT Data Analytics](https://github.com/auriaahmad/ESP32s-MERN) *(GitHub)*
 **IoT | MERN Stack, MQTT, ESP32**
 - Real-time sensor data processing with ESP32 microcontrollers
 - MQTT pub/sub messaging for scalable IoT communication
